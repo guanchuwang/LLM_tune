@@ -1,0 +1,10 @@
+__pycache__
+*.so
+*.pyc
+*.egg-info
+*.so
+logs
+*.log
+*.ipynb
+*.npy
+*.idea
